@@ -18,6 +18,7 @@ Please follow step below:
 * Input number in needed
 
 Expectation result after run soal1.js
+
 ![image](https://user-images.githubusercontent.com/124502981/217864004-2de21251-ff54-474b-8eb7-3b06a0e00324.png)
 
 Expectation result after run soal2.js
