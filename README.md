@@ -1,4 +1,4 @@
-# QA-Sanbercode-Training
+# Javascript 
 Training QA Sanbercode using JavaScript and git
 
 How to Run?
